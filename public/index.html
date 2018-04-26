@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <script src="script.js?d=5&l=10"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        console.log('DOMContentLoaded');
+      });
+      window.addEventListener('load', function () {
+        console.log('Loaded');
+      });
+    </script>
+  </head>
+  <body>
+    <!-- REPLACE DOM -->
+    <script>
+      document.write('OK');
+      console.log('document parsed the end of body');
+    </script>
+  </body>
+</html>

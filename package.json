@@ -1,0 +1,25 @@
+{
+  "name": "async-defer-sandbox",
+  "version": "1.0.0",
+  "author": "fiahfy",
+  "bugs": {
+    "url": "https://github.com/fiahfy/async-defer-sandbox/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "backpack-core": "^0.7.0"
+  },
+  "homepage": "https://github.com/fiahfy/async-defer-sandbox#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiahfy/async-defer-sandbox.git"
+  },
+  "scripts": {
+    "dev": "backpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
