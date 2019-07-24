@@ -1,6 +1,6 @@
-# async-defer-sandbox
+# async-defer-example
 
-> Sandbox for async/defer attribute for external scripts
+> Example for async/defer attribute for external scripts
 
 ![screenshot](./graph.png)
 
