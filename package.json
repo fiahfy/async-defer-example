@@ -6,7 +6,7 @@
     "url": "https://github.com/fiahfy/async-defer-example/issues"
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "backpack-core": "^0.8.4"
